@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Jorge-Saq
+- 👀 I’m interested in Software Engineering and Web development.
+- 🌱 I’m currently studying at Boston College. Trying to master Java, Python, HTML.
+- 📫 How to reach me (saquinau@bc.edu)
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I consume way too much coffee.
